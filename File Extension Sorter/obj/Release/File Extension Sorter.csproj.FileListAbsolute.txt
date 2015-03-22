@@ -1,0 +1,12 @@
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\bin\Release\File Extension Sorter.exe.config
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\bin\Release\File Extension Sorter.exe
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\bin\Release\File Extension Sorter.pdb
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File_Extension_Sorter.Form1.resources
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File_Extension_Sorter.Properties.Resources.resources
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File Extension Sorter.csproj.GenerateResource.Cache
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File Extension Sorter.exe
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File Extension Sorter.pdb
+d:\Users\Jedi Master\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File Extension Sorter.csprojResolveAssemblyReference.cache
+D:\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\bin\Release\File Extension Sorter.exe.config
+D:\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File Extension Sorter.exe
+D:\Google Drive\Programs\File Extension Sorter\File Extension Sorter\File Extension Sorter\obj\Release\File Extension Sorter.pdb
